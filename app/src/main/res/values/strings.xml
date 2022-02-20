@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Reproducir Audio y Video_Semana5</string>
+    <string name="opcion1">Audio</string>
+    <string name="opcion2">Video</string>
+    <string name="Iniciar">Iniciar</string>
+    <string name="Detener">Detener</string>
+    <string name="Regresar">Regresar</string>
+    <string name="play">Play</string>
+    <string name="pausa">Pausa</string>
+    <string name="avanzar">Avanzar</string>
+    <string name="Volver">Regresar</string>
+    <string name="Video">Reproductor de video</string>
+    <string name="Audio">Reproductor de audio</string>
+</resources>
